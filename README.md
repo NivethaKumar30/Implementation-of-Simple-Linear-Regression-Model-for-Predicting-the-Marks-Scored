@@ -16,6 +16,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
+NAME: NIVETHS .K
+REG NO: 212222230102
+DEPT:AI&DS
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
