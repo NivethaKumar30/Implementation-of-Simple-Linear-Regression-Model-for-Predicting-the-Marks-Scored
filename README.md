@@ -1,5 +1,3 @@
-![Screenshot 2024-02-23 104904](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/973e6545-ded1-4730-bca4-2d8be8f305bc)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
@@ -58,16 +56,13 @@ b
 
 ![Screenshot 2024-02-23 104934](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/2f28de89-d730-4b7a-9770-98da4e0b7c43)
 
+![Screenshot 2024-02-23 104904](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/973e6545-ded1-4730-bca4-2d8be8f305bc)
 
 ![Screenshot 2024-02-23 104940](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/d7fa1ced-6971-47ce-b011-a573ca15d490)
 
 ![Screenshot 2024-02-17 030334](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/a08496b8-bc54-4336-a409-3c53adae857d)
 
 ![Screenshot 2024-02-23 104843](https://github.com/NivethaKumar30/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559844/80b20c2b-4a8e-423e-8a98-5f62f360ffb6)
-
-
-
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
