@@ -16,7 +16,31 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+df=pd.read_csv('/content/studentscores.csv')
+df.head(10)
+plt.scatter(df['X'],df['Y'])
+plt.xlabel('X')
+plt.ylabel('Y')
+x=df.iloc[:,0:1]
+y=df.iloc[:,-1]
+x
+from sklearn.model_selection import train_test_split
+X_train,X_test,Y_train,Y_test=train_test_split(x,y,test_size=0.2,random_state=0)
+from sklearn.linear_model import LinearRegression
+lr=LinearRegression()
+lr.fit(X_train,Y_train)
+lr.predict(X_test.iloc[0].values.reshape(1,1))
+plt.scatter(df['X'],df['Y'])
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.plot(X_train,lr.predict(X_train),color='red')
+m=lr.coef_
+m[0]
+b=lr.intercept_
+b
 ```
 
 ## Output:
