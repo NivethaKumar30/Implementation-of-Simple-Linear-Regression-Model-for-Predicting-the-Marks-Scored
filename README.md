@@ -1,4 +1,4 @@
-<B>Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored<B>
+### Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 
 ## AIM:
