@@ -17,7 +17,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-NAME: NIVETHS .K
+NAME: NIVETHA .K
 REG NO: 212222230102
 DEPT:AI&DS
 ```
